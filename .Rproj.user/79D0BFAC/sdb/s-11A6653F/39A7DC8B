@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1446960960489.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "39A7DC8B",
+    "lastKnownWriteTime" : 4830727936,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "lwxxbs6q5u",
+        "caption" : "fares",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=fares&cache_key=lwxxbs6q5u",
+        "displayedObservations" : 100860,
+        "environment" : "",
+        "object" : "fares",
+        "totalObservations" : 100860,
+        "variables" : 22
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
